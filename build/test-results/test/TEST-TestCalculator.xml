@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestCalculator" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-06T15:06:06" hostname="MacBook-Pro-A-3.local" time="0.083">
+  <properties/>
+  <testcase name="[1] 1" classname="TestCalculator" time="0.069"/>
+  <testcase name="[2] 5" classname="TestCalculator" time="0.002"/>
+  <testcase name="[3] 10" classname="TestCalculator" time="0.003"/>
+  <system-out><![CDATA[BeforeAll call
+BeforeEach call
+AfterEach call
+BeforeEach call
+AfterEach call
+BeforeEach call
+AfterEach call
+BeforeAll call
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
